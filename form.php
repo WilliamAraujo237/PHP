@@ -16,7 +16,7 @@
     if (date('Y')- $idade >= 63) {
         $pessoa="já não é obrigado a votar";
     }elseif(date('Y') - $idade < 18){
-        $pessoa="Ainda não pode votar";
+        $pessoa="ainda não pode votar";
     }elseif (date('Y') - $idade > 18) {
         $pessoa="já é obridao a votar";
     }
