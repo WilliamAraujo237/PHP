@@ -1,0 +1,25 @@
+body{
+    margin:0%;
+    padding: 0%;
+    background-image: url(https://global-uploads.webflow.com/5b5694df76451f74367f58e3/607ed142f9c5620a1e958e80_CIMENTO-QUEIMADO-NA-PAREDE.jpeg);
+}#formulario{
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin:18%;
+    padding:20px;
+    text-align: center;
+    background-color: rgba(0, 255, 255, 0.281);
+    border-radius: 10px;
+}div#php{
+    color: black;
+    font-size: 30px;
+    font-family: sans-serif;
+    margin:18%;
+    padding:20px;
+    text-align: center;
+}div#buton{
+    display: flexbox;
+    justify-content: center;
+    text-align: center;
+}

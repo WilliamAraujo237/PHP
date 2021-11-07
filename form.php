@@ -23,6 +23,6 @@
 
     echo"olá $nome $sobre_nome você $pessoa"
     ?>
-    <a href="http://localhost/php/PHP/formulario_com_php.html">voltar</a>
+    <a href="formulario_com_php.html">voltar</a>
 </body>
 </html>
